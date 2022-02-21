@@ -464,7 +464,7 @@ img {
   background-color: rgba(255, 255, 255, 0.1);
 }
 
-.social-list-icon {
+.footer-social-container .social-list-icon {
   fill: var(--primary-white-color);
 }
 
